@@ -148,12 +148,8 @@
 						<image>openjdk:11</image>
 					</from>
 					<to>
-						<image>registry.hub.docker.com/rabtab/orderservice</image>
+						<image>${REPO_URL}/orderservice</image>
 						<tags>${project.version}</tags>
-						<auth>
-							<username>rabtab</username>
-							<password>D0ck#r@22</password>
-						</auth>
 					</to>
 				</configuration>
 			</plugin>
